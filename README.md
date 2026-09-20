@@ -43,7 +43,7 @@ Ejecución de consultas de negocio directamente sobre la vista limpia:
 
 ---
 
-## 🚀 Cómo ejecutar este proyecto
+##  Cómo ejecutar este proyecto
 1. Restaurar la base de datos o importar el CSV a una tabla llamada `melbourne_raw`.
 2. Ejecutar los scripts en orden secuencial (01, 02, 03).
 3. Asegurarse de ejecutar la creación de la vista en el script `02` antes de lanzar las consultas analíticas del script `03`.
